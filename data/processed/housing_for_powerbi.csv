@@ -1,0 +1,503 @@
+Geography,Year,Avg_Value
+Alberta,2013,97.6
+Alberta,2014,99.96
+Alberta,2015,100.68
+Alberta,2016,100.15
+Alberta,2017,99.99
+Alberta,2018,99.6
+Alberta,2019,98.14
+Alberta,2020,97.24
+Alberta,2021,103.89
+Alberta,2022,116.38
+Alberta,2023,117.5
+Alberta,2024,120.75
+Alberta,2025,121.46
+Atlantic Region,2013,99.1
+Atlantic Region,2014,99.03
+Atlantic Region,2015,99.39
+Atlantic Region,2016,99.68
+Atlantic Region,2017,99.98
+Atlantic Region,2018,100.3
+Atlantic Region,2019,100.41
+Atlantic Region,2020,102.85
+Atlantic Region,2021,111.42
+Atlantic Region,2022,116.5
+Atlantic Region,2023,117.12
+Atlantic Region,2024,117.09
+Atlantic Region,2025,119.92
+British Columbia,2013,94.3
+British Columbia,2014,93.88
+British Columbia,2015,94.59
+British Columbia,2016,98.85
+British Columbia,2017,104.45
+British Columbia,2018,107.88
+British Columbia,2019,106.58
+British Columbia,2020,108.12
+British Columbia,2021,119.9
+British Columbia,2022,127.84
+British Columbia,2023,127.22
+British Columbia,2024,127.18
+British Columbia,2025,126.7
+"Calgary, Alberta",2013,95.4
+"Calgary, Alberta",2014,99.82
+"Calgary, Alberta",2015,100.88
+"Calgary, Alberta",2016,100.02
+"Calgary, Alberta",2017,100.03
+"Calgary, Alberta",2018,99.63
+"Calgary, Alberta",2019,97.93
+"Calgary, Alberta",2020,96.88
+"Calgary, Alberta",2021,105.56
+"Calgary, Alberta",2022,122.79
+"Calgary, Alberta",2023,126.47
+"Calgary, Alberta",2024,131.5
+"Calgary, Alberta",2025,132.92
+Canada,2013,93.9
+Canada,2014,94.93
+Canada,2015,96.21
+Canada,2016,98.64
+Canada,2017,102.17
+Canada,2018,103.22
+Canada,2019,103.16
+Canada,2020,105.31
+Canada,2021,116.17
+Canada,2022,125.11
+Canada,2023,124.82
+Canada,2024,124.67
+Canada,2025,124.22
+"Charlottetown, Prince Edward Island",2013,100.8
+"Charlottetown, Prince Edward Island",2014,99.5
+"Charlottetown, Prince Edward Island",2015,99.62
+"Charlottetown, Prince Edward Island",2016,100.01
+"Charlottetown, Prince Edward Island",2017,100.11
+"Charlottetown, Prince Edward Island",2018,100.34
+"Charlottetown, Prince Edward Island",2019,101.07
+"Charlottetown, Prince Edward Island",2020,103.4
+"Charlottetown, Prince Edward Island",2021,117.1
+"Charlottetown, Prince Edward Island",2022,121.78
+"Charlottetown, Prince Edward Island",2023,122.6
+"Charlottetown, Prince Edward Island",2024,122.6
+"Charlottetown, Prince Edward Island",2025,122.24
+"Edmonton, Alberta",2013,99.8
+"Edmonton, Alberta",2014,100.08
+"Edmonton, Alberta",2015,100.49
+"Edmonton, Alberta",2016,100.28
+"Edmonton, Alberta",2017,99.95
+"Edmonton, Alberta",2018,99.55
+"Edmonton, Alberta",2019,98.28
+"Edmonton, Alberta",2020,97.64
+"Edmonton, Alberta",2021,102.1
+"Edmonton, Alberta",2022,109.4
+"Edmonton, Alberta",2023,107.52
+"Edmonton, Alberta",2024,108.66
+"Edmonton, Alberta",2025,108.4
+"Greater Sudbury, Ontario",2013,98.4
+"Greater Sudbury, Ontario",2014,98.73
+"Greater Sudbury, Ontario",2015,98.99
+"Greater Sudbury, Ontario",2016,99.33
+"Greater Sudbury, Ontario",2017,99.6
+"Greater Sudbury, Ontario",2018,100.44
+"Greater Sudbury, Ontario",2019,101.41
+"Greater Sudbury, Ontario",2020,103.3
+"Greater Sudbury, Ontario",2021,117.02
+"Greater Sudbury, Ontario",2022,121.68
+"Greater Sudbury, Ontario",2023,120.36
+"Greater Sudbury, Ontario",2024,118.8
+"Greater Sudbury, Ontario",2025,117.8
+"Guelph, Ontario",2016,100
+"Guelph, Ontario",2017,103.59
+"Guelph, Ontario",2018,104.9
+"Guelph, Ontario",2019,105.72
+"Guelph, Ontario",2020,110.28
+"Guelph, Ontario",2021,121.44
+"Guelph, Ontario",2022,124
+"Guelph, Ontario",2023,123.25
+"Guelph, Ontario",2024,122.68
+"Guelph, Ontario",2025,122.48
+"Halifax, Nova Scotia",2013,98.1
+"Halifax, Nova Scotia",2014,98.16
+"Halifax, Nova Scotia",2015,98.9
+"Halifax, Nova Scotia",2016,99.28
+"Halifax, Nova Scotia",2017,100.58
+"Halifax, Nova Scotia",2018,101.62
+"Halifax, Nova Scotia",2019,102.37
+"Halifax, Nova Scotia",2020,106.12
+"Halifax, Nova Scotia",2021,116.25
+"Halifax, Nova Scotia",2022,120.82
+"Halifax, Nova Scotia",2023,121.29
+"Halifax, Nova Scotia",2024,121.09
+"Halifax, Nova Scotia",2025,125.58
+"Hamilton, Ontario",2013,91.6
+"Hamilton, Ontario",2014,92.92
+"Hamilton, Ontario",2015,95.95
+"Hamilton, Ontario",2016,98.57
+"Hamilton, Ontario",2017,102.26
+"Hamilton, Ontario",2018,103.56
+"Hamilton, Ontario",2019,104.23
+"Hamilton, Ontario",2020,107.29
+"Hamilton, Ontario",2021,116.1
+"Hamilton, Ontario",2022,116.51
+"Hamilton, Ontario",2023,115.47
+"Hamilton, Ontario",2024,114.12
+"Hamilton, Ontario",2025,113.68
+"Kelowna, British Columbia",2016,100
+"Kelowna, British Columbia",2017,101.62
+"Kelowna, British Columbia",2018,103.47
+"Kelowna, British Columbia",2019,103.23
+"Kelowna, British Columbia",2020,104.77
+"Kelowna, British Columbia",2021,116.41
+"Kelowna, British Columbia",2022,123.49
+"Kelowna, British Columbia",2023,123.02
+"Kelowna, British Columbia",2024,122.08
+"Kelowna, British Columbia",2025,122.9
+"Kitchener-Cambridge-Waterloo, Ontario",2013,93.2
+"Kitchener-Cambridge-Waterloo, Ontario",2014,93.97
+"Kitchener-Cambridge-Waterloo, Ontario",2015,95.62
+"Kitchener-Cambridge-Waterloo, Ontario",2016,97.62
+"Kitchener-Cambridge-Waterloo, Ontario",2017,103.05
+"Kitchener-Cambridge-Waterloo, Ontario",2018,103.75
+"Kitchener-Cambridge-Waterloo, Ontario",2019,105.53
+"Kitchener-Cambridge-Waterloo, Ontario",2020,112.03
+"Kitchener-Cambridge-Waterloo, Ontario",2021,139.5
+"Kitchener-Cambridge-Waterloo, Ontario",2022,158.71
+"Kitchener-Cambridge-Waterloo, Ontario",2023,157.65
+"Kitchener-Cambridge-Waterloo, Ontario",2024,155.19
+"Kitchener-Cambridge-Waterloo, Ontario",2025,155.78
+"London, Ontario",2013,93.9
+"London, Ontario",2014,95.02
+"London, Ontario",2015,96.57
+"London, Ontario",2016,98.56
+"London, Ontario",2017,104.65
+"London, Ontario",2018,109.83
+"London, Ontario",2019,113.16
+"London, Ontario",2020,116.67
+"London, Ontario",2021,132
+"London, Ontario",2022,147.19
+"London, Ontario",2023,145.55
+"London, Ontario",2024,143.55
+"London, Ontario",2025,140.8
+Manitoba,2013,95.1
+Manitoba,2014,96.02
+Manitoba,2015,97.08
+Manitoba,2016,98.88
+Manitoba,2017,101.99
+Manitoba,2018,103.88
+Manitoba,2019,104.72
+Manitoba,2020,106.82
+Manitoba,2021,122.62
+Manitoba,2022,141.72
+Manitoba,2023,141.08
+Manitoba,2024,139.86
+Manitoba,2025,142.22
+"Montréal, Quebec",2013,98.2
+"Montréal, Quebec",2014,98.3
+"Montréal, Quebec",2015,98.62
+"Montréal, Quebec",2016,99.62
+"Montréal, Quebec",2017,100.79
+"Montréal, Quebec",2018,103.37
+"Montréal, Quebec",2019,107.38
+"Montréal, Quebec",2020,115.83
+"Montréal, Quebec",2021,135.52
+"Montréal, Quebec",2022,150.43
+"Montréal, Quebec",2023,151.64
+"Montréal, Quebec",2024,152.02
+"Montréal, Quebec",2025,153.72
+New Brunswick,2013,98.4
+New Brunswick,2014,98.26
+New Brunswick,2015,98.13
+New Brunswick,2016,98.85
+New Brunswick,2017,100.38
+New Brunswick,2018,101.06
+New Brunswick,2019,101.61
+New Brunswick,2020,103.43
+New Brunswick,2021,111.1
+New Brunswick,2022,118.9
+New Brunswick,2023,119.47
+New Brunswick,2024,119.92
+New Brunswick,2025,120.7
+Newfoundland and Labrador,2013,99.6
+Newfoundland and Labrador,2014,99.76
+Newfoundland and Labrador,2015,100.02
+Newfoundland and Labrador,2016,100.12
+Newfoundland and Labrador,2017,99.27
+Newfoundland and Labrador,2018,98.7
+Newfoundland and Labrador,2019,97.53
+Newfoundland and Labrador,2020,98.05
+Newfoundland and Labrador,2021,102.13
+Newfoundland and Labrador,2022,105.12
+Newfoundland and Labrador,2023,106.27
+Newfoundland and Labrador,2024,106.57
+Newfoundland and Labrador,2025,108.98
+Nova Scotia,2013,98.1
+Nova Scotia,2014,98.16
+Nova Scotia,2015,98.9
+Nova Scotia,2016,99.28
+Nova Scotia,2017,100.58
+Nova Scotia,2018,101.62
+Nova Scotia,2019,102.37
+Nova Scotia,2020,106.12
+Nova Scotia,2021,116.25
+Nova Scotia,2022,120.82
+Nova Scotia,2023,121.29
+Nova Scotia,2024,121.09
+Nova Scotia,2025,125.58
+Ontario,2013,89.4
+Ontario,2014,90.43
+Ontario,2015,92.67
+Ontario,2016,97.2
+Ontario,2017,103.29
+Ontario,2018,104.37
+Ontario,2019,104.79
+Ontario,2020,107.62
+Ontario,2021,119.17
+Ontario,2022,126.91
+Ontario,2023,126.11
+Ontario,2024,124.44
+Ontario,2025,122.94
+"Oshawa, Ontario",2016,100
+"Oshawa, Ontario",2017,103.37
+"Oshawa, Ontario",2018,104.41
+"Oshawa, Ontario",2019,103.47
+"Oshawa, Ontario",2020,105.16
+"Oshawa, Ontario",2021,116.83
+"Oshawa, Ontario",2022,122
+"Oshawa, Ontario",2023,121.6
+"Oshawa, Ontario",2024,121.39
+"Oshawa, Ontario",2025,119.98
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2013,100.5
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2014,99.91
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2015,98.94
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2016,99.22
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2017,102.37
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2018,107.55
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2019,113.41
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2020,126.51
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2021,154.93
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2022,173.02
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2023,170.77
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2024,164.61
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",2025,163.36
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2016,100
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2017,100.47
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2018,101.83
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2019,104.17
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2020,108.53
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2021,114.49
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2022,115.9
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2023,115.48
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2024,115.82
+"Ottawa-Gatineau, Quebec part, Ontario/Quebec",2025,115.84
+Prairie Region,2013,97.8
+Prairie Region,2014,99.92
+Prairie Region,2015,100.5
+Prairie Region,2016,100.03
+Prairie Region,2017,100.14
+Prairie Region,2018,99.86
+Prairie Region,2019,98.65
+Prairie Region,2020,98.03
+Prairie Region,2021,105.56
+Prairie Region,2022,118.17
+Prairie Region,2023,118.97
+Prairie Region,2024,121.6
+Prairie Region,2025,122.54
+Prince Edward Island,2013,100.8
+Prince Edward Island,2014,99.5
+Prince Edward Island,2015,99.62
+Prince Edward Island,2016,100.01
+Prince Edward Island,2017,100.11
+Prince Edward Island,2018,100.34
+Prince Edward Island,2019,101.07
+Prince Edward Island,2020,103.4
+Prince Edward Island,2021,117.1
+Prince Edward Island,2022,121.78
+Prince Edward Island,2023,122.6
+Prince Edward Island,2024,122.6
+Prince Edward Island,2025,122.24
+Quebec,2013,98.7
+Quebec,2014,98.82
+Quebec,2015,99
+Quebec,2016,99.72
+Quebec,2017,100.6
+Quebec,2018,102.53
+Quebec,2019,105.5
+Quebec,2020,112.06
+Quebec,2021,128.41
+Quebec,2022,140.56
+Quebec,2023,142.02
+Quebec,2024,142.79
+Quebec,2025,145.18
+"Québec, Quebec",2013,100.4
+"Québec, Quebec",2014,100.57
+"Québec, Quebec",2015,100.33
+"Québec, Quebec",2016,99.98
+"Québec, Quebec",2017,100.35
+"Québec, Quebec",2018,100.72
+"Québec, Quebec",2019,100.74
+"Québec, Quebec",2020,102.22
+"Québec, Quebec",2021,115.04
+"Québec, Quebec",2022,124.59
+"Québec, Quebec",2023,128.88
+"Québec, Quebec",2024,131.8
+"Québec, Quebec",2025,139.28
+"Regina, Saskatchewan",2013,102
+"Regina, Saskatchewan",2014,101.98
+"Regina, Saskatchewan",2015,100.58
+"Regina, Saskatchewan",2016,100.36
+"Regina, Saskatchewan",2017,100.31
+"Regina, Saskatchewan",2018,99.03
+"Regina, Saskatchewan",2019,96.45
+"Regina, Saskatchewan",2020,92.68
+"Regina, Saskatchewan",2021,96.38
+"Regina, Saskatchewan",2022,102.22
+"Regina, Saskatchewan",2023,102.25
+"Regina, Saskatchewan",2024,101.67
+"Regina, Saskatchewan",2025,103.04
+"Saint John, Fredericton, and Moncton, New Brunswick",2013,98.4
+"Saint John, Fredericton, and Moncton, New Brunswick",2014,98.26
+"Saint John, Fredericton, and Moncton, New Brunswick",2015,98.13
+"Saint John, Fredericton, and Moncton, New Brunswick",2016,98.85
+"Saint John, Fredericton, and Moncton, New Brunswick",2017,100.38
+"Saint John, Fredericton, and Moncton, New Brunswick",2018,101.06
+"Saint John, Fredericton, and Moncton, New Brunswick",2019,101.61
+"Saint John, Fredericton, and Moncton, New Brunswick",2020,103.43
+"Saint John, Fredericton, and Moncton, New Brunswick",2021,111.1
+"Saint John, Fredericton, and Moncton, New Brunswick",2022,118.9
+"Saint John, Fredericton, and Moncton, New Brunswick",2023,119.47
+"Saint John, Fredericton, and Moncton, New Brunswick",2024,119.92
+"Saint John, Fredericton, and Moncton, New Brunswick",2025,120.7
+Saskatchewan,2013,101.6
+Saskatchewan,2014,102.57
+Saskatchewan,2015,101.79
+Saskatchewan,2016,100.17
+Saskatchewan,2017,99.65
+Saskatchewan,2018,98.44
+Saskatchewan,2019,96.85
+Saskatchewan,2020,95.13
+Saskatchewan,2021,100.62
+Saskatchewan,2022,105.82
+Saskatchewan,2023,105
+Saskatchewan,2024,104.86
+Saskatchewan,2025,107.58
+"Saskatoon, Saskatchewan",2013,101.5
+"Saskatoon, Saskatchewan",2014,102.9
+"Saskatoon, Saskatchewan",2015,102.49
+"Saskatoon, Saskatchewan",2016,100.06
+"Saskatoon, Saskatchewan",2017,99.26
+"Saskatoon, Saskatchewan",2018,98.13
+"Saskatoon, Saskatchewan",2019,97.06
+"Saskatoon, Saskatchewan",2020,96.6
+"Saskatoon, Saskatchewan",2021,103.17
+"Saskatoon, Saskatchewan",2022,108
+"Saskatoon, Saskatchewan",2023,106.77
+"Saskatoon, Saskatchewan",2024,106.79
+"Saskatoon, Saskatchewan",2025,110.04
+"Sherbrooke, Quebec",2016,100
+"Sherbrooke, Quebec",2017,99.92
+"Sherbrooke, Quebec",2018,100.48
+"Sherbrooke, Quebec",2019,102.21
+"Sherbrooke, Quebec",2020,103.95
+"Sherbrooke, Quebec",2021,104.95
+"Sherbrooke, Quebec",2022,110.79
+"Sherbrooke, Quebec",2023,111.88
+"Sherbrooke, Quebec",2024,111.04
+"Sherbrooke, Quebec",2025,109.6
+"St. Catharines-Niagara, Ontario",2013,91.7
+"St. Catharines-Niagara, Ontario",2014,92.59
+"St. Catharines-Niagara, Ontario",2015,93.54
+"St. Catharines-Niagara, Ontario",2016,97.41
+"St. Catharines-Niagara, Ontario",2017,103.25
+"St. Catharines-Niagara, Ontario",2018,105.53
+"St. Catharines-Niagara, Ontario",2019,106.68
+"St. Catharines-Niagara, Ontario",2020,110.68
+"St. Catharines-Niagara, Ontario",2021,123.97
+"St. Catharines-Niagara, Ontario",2022,129.63
+"St. Catharines-Niagara, Ontario",2023,127.49
+"St. Catharines-Niagara, Ontario",2024,126.15
+"St. Catharines-Niagara, Ontario",2025,125.7
+"St. John's, Newfoundland and Labrador",2013,99.6
+"St. John's, Newfoundland and Labrador",2014,99.76
+"St. John's, Newfoundland and Labrador",2015,100.02
+"St. John's, Newfoundland and Labrador",2016,100.12
+"St. John's, Newfoundland and Labrador",2017,99.27
+"St. John's, Newfoundland and Labrador",2018,98.7
+"St. John's, Newfoundland and Labrador",2019,97.53
+"St. John's, Newfoundland and Labrador",2020,98.05
+"St. John's, Newfoundland and Labrador",2021,102.13
+"St. John's, Newfoundland and Labrador",2022,105.12
+"St. John's, Newfoundland and Labrador",2023,106.27
+"St. John's, Newfoundland and Labrador",2024,106.57
+"St. John's, Newfoundland and Labrador",2025,108.98
+"Toronto, Ontario",2013,86.8
+"Toronto, Ontario",2014,88.04
+"Toronto, Ontario",2015,90.85
+"Toronto, Ontario",2016,96.62
+"Toronto, Ontario",2017,103.62
+"Toronto, Ontario",2018,103.46
+"Toronto, Ontario",2019,102.55
+"Toronto, Ontario",2020,103.49
+"Toronto, Ontario",2021,110.42
+"Toronto, Ontario",2022,115.41
+"Toronto, Ontario",2023,115.06
+"Toronto, Ontario",2024,114.2
+"Toronto, Ontario",2025,112.26
+"Trois-Rivières, Quebec",2016,100
+"Trois-Rivières, Quebec",2017,100.05
+"Trois-Rivières, Quebec",2018,100.74
+"Trois-Rivières, Quebec",2019,102.11
+"Trois-Rivières, Quebec",2020,104.49
+"Trois-Rivières, Quebec",2021,108.97
+"Trois-Rivières, Quebec",2022,111
+"Trois-Rivières, Quebec",2023,111.28
+"Trois-Rivières, Quebec",2024,113.83
+"Trois-Rivières, Quebec",2025,115.64
+"Vancouver, British Columbia",2013,94.1
+"Vancouver, British Columbia",2014,93.66
+"Vancouver, British Columbia",2015,94.56
+"Vancouver, British Columbia",2016,98.93
+"Vancouver, British Columbia",2017,105.1
+"Vancouver, British Columbia",2018,108.91
+"Vancouver, British Columbia",2019,107.41
+"Vancouver, British Columbia",2020,108.83
+"Vancouver, British Columbia",2021,120.72
+"Vancouver, British Columbia",2022,128.52
+"Vancouver, British Columbia",2023,128.23
+"Vancouver, British Columbia",2024,128.48
+"Vancouver, British Columbia",2025,127.68
+"Victoria, British Columbia",2013,96.7
+"Victoria, British Columbia",2014,96.22
+"Victoria, British Columbia",2015,95.08
+"Victoria, British Columbia",2016,97.71
+"Victoria, British Columbia",2017,101.37
+"Victoria, British Columbia",2018,102.55
+"Victoria, British Columbia",2019,101.7
+"Victoria, British Columbia",2020,103.85
+"Victoria, British Columbia",2021,114.25
+"Victoria, British Columbia",2022,124.67
+"Victoria, British Columbia",2023,121.31
+"Victoria, British Columbia",2024,119.68
+"Victoria, British Columbia",2025,120.94
+"Windsor, Ontario",2013,94.6
+"Windsor, Ontario",2014,95.29
+"Windsor, Ontario",2015,95.41
+"Windsor, Ontario",2016,97.17
+"Windsor, Ontario",2017,101.63
+"Windsor, Ontario",2018,104.38
+"Windsor, Ontario",2019,106.72
+"Windsor, Ontario",2020,110.12
+"Windsor, Ontario",2021,130.38
+"Windsor, Ontario",2022,145.98
+"Windsor, Ontario",2023,146.22
+"Windsor, Ontario",2024,145.68
+"Windsor, Ontario",2025,145
+"Winnipeg, Manitoba",2013,95.1
+"Winnipeg, Manitoba",2014,96.02
+"Winnipeg, Manitoba",2015,97.08
+"Winnipeg, Manitoba",2016,98.88
+"Winnipeg, Manitoba",2017,101.99
+"Winnipeg, Manitoba",2018,103.88
+"Winnipeg, Manitoba",2019,104.72
+"Winnipeg, Manitoba",2020,106.82
+"Winnipeg, Manitoba",2021,122.62
+"Winnipeg, Manitoba",2022,141.72
+"Winnipeg, Manitoba",2023,141.08
+"Winnipeg, Manitoba",2024,139.86
+"Winnipeg, Manitoba",2025,142.22
