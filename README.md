@@ -1,11 +1,15 @@
 # Canadian Housing Prices Analysis (2016–2024)
 
-This project analyzes the New Housing Price Index across major Canadian cities and provinces using public data from Statistics Canada.
+This project analyzes trends in the New Housing Price Index across major Canadian cities using data from Statistics Canada.
+
+---
 
 ## Key Insight
 
-Ottawa — not Toronto or Vancouver — had the highest housing price increase from 2016 to 2024.  
-Prices in Ottawa grew by over X%, surpassing all other major cities.
+Ottawa — not Toronto or Vancouver — experienced the highest housing price increase from 2016 to 2024.  
+Prices in Ottawa grew by over XX%, surpassing all other major cities in Canada.
+
+---
 
 ## Data Source
 
@@ -14,11 +18,13 @@ Prices in Ottawa grew by over X%, surpassing all other major cities.
 - Period: 2016–2024
 - Base: 2016 = 100
 
+---
+
 ## Methodology
 
-- Loaded raw data from CSV
-- Cleaned and filtered only Total (house and land) prices
-- Focused on key cities:
+- Loaded raw CSV data
+- Filtered only Total (house and land) prices
+- Focused on selected cities:
   - Ottawa
   - Toronto
   - Vancouver
@@ -30,40 +36,43 @@ Prices in Ottawa grew by over X%, surpassing all other major cities.
   - Winnipeg
   - Hamilton
   - Kitchener–Cambridge–Waterloo
-  - Others...
-- Calculated percentage growth between 2016 and 2024
-- Visualized:
+- Calculated growth between 2016 and 2024
+- Produced:
   - Time series line charts
-  - Bar charts for growth comparison
-  - Normalized index trends
+  - Bar charts comparing total growth
+  - Normalized trend lines
+
+---
 
 ## Project Structure
 
-canadian-housing-prices-analysis/
-├── data/                         # Raw & processed data  
-├── scripts/                      # R scripts for cleaning, analysis & plotting  
+canadian-housing-prices-analysis/  
+├── data/                  # Raw and cleaned CSVs  
+├── scripts/               # R scripts for cleaning, analysis, and plotting  
 ├── output/  
-│   ├── charts/                   # Plots as PNGs  
-│   └── summary_tables/           # Growth summary tables  
-├── README.md  
-└── housing_project.Rproj  
+│   ├── charts/            # PNG visualizations  
+│   └── summary_tables/    # Summary growth tables  
+├── housing_project.Rproj  # RStudio project file  
+└── README.md              # Project documentation
 
-## Sample Visualizations
-
-Bar chart: housing_growth_barchart_2016_2024.png  
-Line chart: cities_trend.png
+---
 
 ## Tools Used
 
-- tidyverse
-- lubridate
-- ggplot2
-- dplyr
-- readr
+- tidyverse  
+- ggplot2  
+- dplyr  
+- lubridate  
+- readr  
 
-## Contact
+---
 
-Built by Mahmoud Ibrahim  
-Ottawa, Canada  
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: https://www.linkedin.com/in/YOUR_LINK
+## Author
+
+Mahmoud Ibrahim  
+Ottawa, Canada
+
+## License
+
+This project is for academic and non-commercial use.  
+Feel free to fork or contribute — attribution appreciated.
