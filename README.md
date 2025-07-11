@@ -7,7 +7,7 @@ This project analyzes trends in the New Housing Price Index across major Canadia
 ## Key Insight
 
 Ottawa — not Toronto or Vancouver — experienced the highest housing price increase from 2016 to 2024.  
-Prices in Ottawa grew by over XX%, surpassing all other major cities in Canada.
+Prices in Ottawa grew by over 65%, surpassing all other major cities in Canada.
 
 ---
 
