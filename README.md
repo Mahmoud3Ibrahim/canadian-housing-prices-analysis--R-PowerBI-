@@ -35,14 +35,35 @@ images/        # Screenshots for README (added manually)
 - The gap between average housing prices and household income continues to widen, especially in large cities.  
 
 ---
-
 ## 4. Visuals
 
-| National Trend | Regional Breakdown |
-|----------------|--------------------|
-| ![Canada Trend](images/price_trend_canada.png) | ![Regional View](images/regional_breakdown.png) |
+### National Overview
+![Housing Price - Canada](charts/housing_price_Canada.png)
 
-More visuals are available inside the Power BI dashboard.
+---
+
+### Major Cities Trend
+![Housing Price Trends - Major Cities](charts/housing_price_trends_major_c.png)
+
+---
+
+### City Growth Comparison
+![Housing Price Growth by City](charts/Housing%20Price%20Growth%20By%20City.png)
+
+---
+
+### Ottawa vs Toronto
+![Ottawa vs Toronto](charts/Ottawa%20Vs%20Toronto.png)
+
+---
+
+### Cities Combined Trend
+![Cities Trend](charts/cities_trend.png)
+
+---
+
+More visuals and analysis are available in the Power BI dashboard.
+
 
 ---
 
@@ -53,7 +74,6 @@ The interactive dashboard summarizes:
 - Year-over-year percentage changes  
 - Income vs affordability metrics  
 
-[View Dashboard (if public link available)](#)
 
 ---
 
