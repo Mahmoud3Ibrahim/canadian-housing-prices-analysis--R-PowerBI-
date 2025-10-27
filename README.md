@@ -38,32 +38,31 @@ images/        # Screenshots for README (added manually)
 ## 4. Visuals
 
 ### National Overview
-![Housing Price - Canada](charts/housing_price_Canada.png)
+![Housing Price - Canada](output/charts/housing_price_Canada.png)
 
 ---
 
 ### Major Cities Trend
-![Housing Price Trends - Major Cities](charts/housing_price_trends_major_c.png)
+![Housing Price Trends - Major Cities](output/charts/housing_price_trends_major_canadian_cities.png)
 
 ---
 
 ### City Growth Comparison
-![Housing Price Growth by City](charts/Housing%20Price%20Growth%20By%20City.png)
+![Housing Price Growth by City](output/charts/Housing%20Price%20Growth%20By%20City.png)
 
 ---
 
 ### Ottawa vs Toronto
-![Ottawa vs Toronto](charts/Ottawa%20Vs%20Toronto.png)
+![Ottawa vs Toronto](output/charts/Ottawa%20Vs%20Toronto.png)
 
 ---
 
 ### Cities Combined Trend
-![Cities Trend](charts/cities_trend.png)
+![Cities Trend](output/charts/cities_trend.png)
 
 ---
 
 More visuals and analysis are available in the Power BI dashboard.
-
 
 ---
 
