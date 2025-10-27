@@ -1,3 +1,7 @@
+> This project was built as part of my data analysis learning journey using real housing datasets from the Government of Canada, CMHC, and the Bank of Canada.  
+> The goal is to understand how housing prices evolved across Canadian regions and how affordability changed over time.
+
+
 # Canadian Housing Prices Analysis (R + Power BI)
 
 This project explores housing prices across Canadian cities using open datasets, cleaned and analyzed in R, with final visualizations built in Power BI.  
@@ -108,3 +112,38 @@ Data Analysis and Web Development
 ## 9. License
 
 MIT License
+
+---
+
+## 10. Main Findings
+
+- Housing prices in Ontario and British Columbia showed the sharpest growth between 2018 and 2024, with significant jumps during 2020–2021.  
+- Prairie provinces (Alberta, Saskatchewan, Manitoba) had slower growth and remained relatively stable compared to national averages.  
+- Atlantic provinces saw steady but smaller price increases, making them more affordable relative to income.  
+- A strong correlation (r ≈ 0.81) was observed between population growth and housing price escalation.  
+- The gap between average household income and home prices continues to widen nationwide, especially in urban centers.
+
+---
+
+## 11. Data Sources
+
+- [Statistics Canada – Housing Price Index](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810020501)  
+- [Canada Mortgage and Housing Corporation (CMHC) – Open Data Portal](https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data)  
+- [Bank of Canada – Interest Rates and Mortgage Data](https://www.bankofcanada.ca/rates/)  
+- [Government of Canada Open Data](https://open.canada.ca/en/open-data)
+
+All datasets were accessed in 2024 and used for academic and analytical purposes only.
+
+---
+
+## 12. Dashboard Preview
+
+Below is a quick look at the Power BI dashboard built for this project.
+
+![Dashboard Overview](output/charts/housing_price_Canada.png)
+
+The dashboard includes:
+- National and provincial price comparisons  
+- Year-over-year growth trends  
+- Income vs affordability ratios  
+- City-level filters and dynamic charts
